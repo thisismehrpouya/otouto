@@ -11,11 +11,11 @@ return {
 	lang = 'en',
 	antisquig = false,
 	cli_port = 4567,
-	admin = 00000000,
-	admin_name = 'John Smith',
+	admin = 91054649,
+	admin_name = 'Mehrpouya',
 	log_chat = nil,
 	about_text = [[
-I am otouto, the plugin-wielding, multi-purpose Telegram bot.
+I am mehrpouyarobot, the plugin-wielding, multi-purpose Telegram bot.
 
 Send /help to get started.
 ]]	,
@@ -59,7 +59,7 @@ Send /help to get started.
 	},
 	moderation = {
 		admins = {
-			['00000000'] = 'You'
+			['91054649'] = 'You'
 		},
 		admin_group = -00000000,
 		realm_name = 'My Realm'
